@@ -1,0 +1,21 @@
+{
+  "lab": "m01l02-07",
+  "lesson": "m01l02",
+  "title": "Four settings worth having on the first day",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash session.sh",
+  "main": "session.sh",
+  "files": [
+    "session.sh"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "git",
+  "requires": [
+    "bash",
+    "git"
+  ],
+  "mergeStderr": true,
+  "note": null
+}

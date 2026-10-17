@@ -1,0 +1,21 @@
+{
+  "lab": "m01l01-08",
+  "lesson": "m01l01",
+  "title": "The id is the content, not the file name",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash session.sh",
+  "main": "session.sh",
+  "files": [
+    "session.sh"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "git",
+  "requires": [
+    "bash",
+    "git"
+  ],
+  "mergeStderr": true,
+  "note": null
+}
